@@ -23,12 +23,12 @@ Languages][popl2016-website] (POPL 2016).  **Pull requests welcome!**
 Note: the [POPL'16 website][popl2016-accepted], powered by the
 increasingly convenient [conf.researchr](http://conf.researchr.org/)
 platform, has nice eye-candy display of paper abstract on click, etc,
-and they have the ability give links to the article
-preprint. Unfortunately, we couldn't find any information on how to
+and they also have the ability to link to article
+preprints. Unfortunately, we couldn't find any information on how to
 contribute such links, so git repositories still remain the most
-convenient way to help crowd-source the preprint-gathering
-activity. We hope to be able to integrate links contributed here to
-their platform, to benefit an even larger audience.
+convenient way to help crowd-source preprint gathering. We hope to be
+able to contribute the links contributed here to their platform, to
+benefit an even larger audience.
 
 
 ## POPL 2016
