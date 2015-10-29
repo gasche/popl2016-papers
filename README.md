@@ -62,12 +62,14 @@ their platform, to benefit an even larger audience.
   by Matthew Flatt  
 
 * **Breaking Through the Normalization Barrier: A Self-Interpreter for F-omega**  
+  ([paper website](http://compilers.cs.ucla.edu/popl16/))  
   by Matt Brown, Jens Palsberg  
 
 * **Casper: An Efficient Approach to Call Trace Collection**  
-  by rongxin wu, Xiao Xiao, Shing-Chi Cheung, Hongyu Zhang, Charles Zhang  
+  by Rongxin Wu, Xiao Xiao, Shing-Chi Cheung, Hongyu Zhang, Charles Zhang  
 
 * **Certified Causally Consistent Distributed Key-Value Stores**  
+  ([paper website](http://adam.chlipala.net/papers/ConsistencyPOPL16/))  
   by Mohsen Lesani, Christian J. Bell, Adam Chlipala  
 
 * **Combining Static Analysis with Probabilistic Models to Enable Market-Scale Analysis**  
@@ -99,6 +101,7 @@ their platform, to benefit an even larger audience.
   by Ed Robbins, Andy King, Tom Schrijvers  
 
 * **Fully-Abstract Compilation by Approximate Back-Translation**  
+  ([preprint](http://www.mpi-sws.org/~marcopat/marcopat/Publications_files/logrel-for-facomp.pdf)) ([technical appendix](http://www.mpi-sws.org/~marcopat/marcopat/Publications_files/ta.pdf))  
   by Dominique Devriese, Marco Patrignani, Frank Piessens  
 
 * **Is Sound Gradual Typing Dead?**  
