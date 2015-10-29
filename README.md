@@ -59,7 +59,7 @@ benefit an even larger audience.
   by Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Andreas Pavlogiannis  
 
 * **Binding as Sets of Scopes**
-  (no preprint found) ([website](http://www.cs.utah.edu/~mflatt/scope-sets-5/))  
+  ([paper in HTML format](http://www.cs.utah.edu/~mflatt/scope-sets-5/))  
   by Matthew Flatt  
 
 * **Breaking Through the Normalization Barrier: A Self-Interpreter for F-omega**  
