@@ -20,7 +20,7 @@ Languages][popl2016-website] (POPL 2016).  **Pull requests welcome!**
 [haskell2014-accepted]: https://github.com/yallop/haskell2014-papers
 [pldi2014-accepted]: https://github.com/yallop/pldi2014-papers
 
-Note: the [POPL'16 website][popl2016-website], powered by the
+Note: the [POPL'16 website][popl2016-accepted], powered by the
 increasingly convenient [conf.researchr](http://conf.researchr.org/)
 platform, has nice eye-candy display of paper abstract on click, etc,
 and they have the ability give links to the article
