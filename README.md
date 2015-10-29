@@ -114,6 +114,8 @@ their platform, to benefit an even larger audience.
   by Pranav Garg, Daniel Neider, P. Madhusudan, Dan Roth  
 
 * **Lightweight Verification of Separate Compilation**  
+([paper website](http://sf.snu.ac.kr/sepcompcert/)) 
+([preprint](http://sf.snu.ac.kr/gil.hur/publications/sepcompcert.pdf))  
   by Jeehoon Kang, Yoonseung Kim, Chung-Kil Hur, Derek Dreyer, Viktor Vafeiadis  
 
 * **Maximal Specification Synthesis**  
@@ -208,6 +210,7 @@ their platform, to benefit an even larger audience.
   by Rishabh Singh, Sumit Gulwani  
 
 * **Type Theory in Type Theory using Quotient Inductive Types**  
+  ([preprint](http://www.cs.nott.ac.uk/~psztxa/publ/tt-in-tt.pdf))  
   by Thorsten Altenkirch, Ambrus Kaposi  
 
 * **Unboundedness and Downward Closures of Higher-Order Pushdown Automata**  
