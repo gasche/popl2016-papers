@@ -34,6 +34,7 @@ their platform, to benefit an even larger audience.
 ## POPL 2016
 
 * **'Cause I'm Strong Enough: Reasoning about Consistency Choices in Distributed Systems**  
+  ([preprint](http://www.cs.ox.ac.uk/people/hongseok.yang/paper/popl16b-submitted.pdf))  
   by Alexey Gotsman, Hongseok Yang, Carla Ferreira, Mahsa Najafzadeh, Marc Shapiro  
 
 * **A Program Logic for Concurrent Objects under Fair Scheduling**  
