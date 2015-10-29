@@ -192,6 +192,7 @@ their platform, to benefit an even larger audience.
   by Yufei Cai, Paolo G. Giarrusso, Klaus Ostermann  
 
 * **Taming Release-Acquire Consistency**  
+  ([paper website](http://plv.mpi-sws.org/sra/)) ([preprint](http://plv.mpi-sws.org/sra/full.pdf))  
   by Ori Lahav, Nick Giannarakis, Viktor Vafeiadis  
 
 * **Temporal Verification of Higher-order Functional Programs**  
