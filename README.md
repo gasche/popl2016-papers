@@ -33,6 +33,24 @@ their platform, to benefit an even larger audience.
 
 ## POPL 2016
 
+<!-- show abstracts on hover only -->
+<style type="text/css">
+
+/* show abstracts only on hover */
+li > blockquote {
+    display: none;
+}
+
+p:hover + blockquote {
+    display: block;
+}
+
+/* set the hover zone for titles to be only the visible zone, and not the full screen width, to improve usability */
+p {
+  display: inline-block;
+}
+</style>
+
 * **'Cause I'm Strong Enough: Reasoning about Consistency Choices in Distributed Systems**  
   by Alexey Gotsman, Hongseok Yang, Carla Ferreira, Mahsa Najafzadeh, Marc Shapiro  
 
