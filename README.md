@@ -62,14 +62,14 @@ their platform, to benefit an even larger audience.
   by Matthew Flatt  
 
 * **Breaking Through the Normalization Barrier: A Self-Interpreter for F-omega**  
-  ([paper website](http://compilers.cs.ucla.edu/popl16/))  
+  (no preprint found) ([website](http://compilers.cs.ucla.edu/popl16/))  
   by Matt Brown, Jens Palsberg  
 
 * **Casper: An Efficient Approach to Call Trace Collection**  
   by Rongxin Wu, Xiao Xiao, Shing-Chi Cheung, Hongyu Zhang, Charles Zhang  
 
 * **Certified Causally Consistent Distributed Key-Value Stores**  
-  ([paper website](http://adam.chlipala.net/papers/ConsistencyPOPL16/))  
+  (no preprint found) ([website](http://adam.chlipala.net/papers/ConsistencyPOPL16/))  
   by Mohsen Lesani, Christian J. Bell, Adam Chlipala  
 
 * **Combining Static Analysis with Probabilistic Models to Enable Market-Scale Analysis**  
