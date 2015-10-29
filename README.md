@@ -5,7 +5,7 @@ SIGPLAN-SIGACT Symposium on Principles of Programming
 Languages][popl2016-website] (POPL 2016).  **Pull requests welcome!**
 
 [popl2016-website]: http://conf.researchr.org/home/POPL-2016/
-[popl2016-accepted]: http://conf.researchr.org/track/POPL-2016/POPL-2016-papers
+[popl2016-accepted]: http://conf.researchr.org/track/POPL-2016/POPL-2016-papers#event-overview
 
 (Similar pages are available for [POPL 2015][popl2015], [POPL
 2014][popl2014], and [2013][popl2013], ICFP ([2012][icfp12],
