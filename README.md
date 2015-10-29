@@ -58,7 +58,8 @@ benefit an even larger audience.
 * **Algorithms for Algebraic Path Properties in Concurrent Systems of Constant Treewidth Components**  
   by Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Andreas Pavlogiannis  
 
-* **Binding as Sets of Scopes**  
+* **Binding as Sets of Scopes**
+  (no preprint found) ([website](http://www.cs.utah.edu/~mflatt/scope-sets-5/))  
   by Matthew Flatt  
 
 * **Breaking Through the Normalization Barrier: A Self-Interpreter for F-omega**  
