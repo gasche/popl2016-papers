@@ -179,6 +179,7 @@ benefit an even larger audience.
   by Somashekaracharya G Bhaskaracharya, Uday Bondhugula, Albert Cohen  
 
 * **Satisfiability Modulo Differential Equivalence Relations**  
+  ([preprint](http://lucacardelli.name/Papers/Satisfiability%20Modulo%20Differential%20Equivalence%20Relations.pdf))
   by Luca Cardelli, Mirco Tribastone, Max Tschaikowski, Andrea Vandin  
 
 * **Scaling Network Verification using Symmetry and Surgery**  
