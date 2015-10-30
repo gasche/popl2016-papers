@@ -53,7 +53,7 @@ benefit an even larger audience.
   by Radu Grigore, Hongseok Yang  
 
 * **Algorithmic Analysis of Qualitative and Quantitative Termination Problems for Affine Probabilistic Programs**  
-  ([preprint](http://arxiv.org/pdf/1510.08517v1) from [arXiv](http://arxiv.org/abs/1510.08517))  
+  ([preprint](http://arxiv.org/pdf/1510.08517) from [arXiv](http://arxiv.org/abs/1510.08517))  
   by Krishnendu Chatterjee, Hongfei Fu, Rouzbeh Hasheminezhad, Petr Novotny  
 
 * **Algorithms for Algebraic Path Properties in Concurrent Systems of Constant Treewidth Components**  
@@ -167,7 +167,7 @@ benefit an even larger audience.
   by Fan Long, Martin Rinard  
 
 * **Pushdown Control-flow Analysis for Free**  
-  ([preprint](http://arxiv.org/pdf/1507.03137v1.pdf) from [arXiv](http://arxiv.org/abs/1507.03137))  
+  ([preprint](http://arxiv.org/pdf/1507.03137) from [arXiv](http://arxiv.org/abs/1507.03137))  
   by Thomas Gilray, Steven Lyde, Michael D. Adams, Matthew Might, David Van Horn  
 
 * **Query-Guided Maximum Satisfiability**  
