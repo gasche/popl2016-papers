@@ -100,6 +100,7 @@ benefit an even larger audience.
   by Johannes Borgstrom, Andrew D. Gordon, Long Ouyang, Claudio Russo, Adam Scibior, Marcin Szymczak  
 
 * **From MinX to MinC: Semantics-Driven Decompilation of Recursive Datatypes**  
+  ([preprint](https://kar.kent.ac.uk/51097/1/submitted-popl.pdf))  
   by Ed Robbins, Andy King, Tom Schrijvers  
 
 * **Fully-Abstract Compilation by Approximate Back-Translation**  
