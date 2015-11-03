@@ -114,6 +114,7 @@ benefit an even larger audience.
   by Bjørn Bugge Grathwohl, Fritz Henglein, Ulrik Terp Rasmussen, Kristoffer Aalund Søholm, Sebastian Paaske Tørholm  
 
 * **Lattice-Theoretic Progress Measures and Coalgebraic Model Checking**  
+  ([preprint](http://arxiv.org/pdf/1511.00346) from [arXiv](http://arxiv.org/abs/1511.00346))  
   by Ichiro Hasuo, Shunsuke Shimizu, Corina Cirstea  
 
 * **Learning Invariants using Decision Trees and Implication Counterexamples**  
