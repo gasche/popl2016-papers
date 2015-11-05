@@ -108,6 +108,7 @@ benefit an even larger audience.
   by Dominique Devriese, Marco Patrignani, Frank Piessens  
 
 * **Is Sound Gradual Typing Dead?**  
+  ([preprint](http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf)) ([artifact](http://www.ccs.neu.edu/home/asumu/artifacts/popl-2016/))  
   by Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Felleisen  
 
 * **Kleenex: Compiling Nondeterministic Transducers to Deterministic Streaming Transducers**  
