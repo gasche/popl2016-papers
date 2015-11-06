@@ -43,8 +43,9 @@ benefit an even larger audience.
 * **A Theory of Effects and Resources: Adjunction Models and Polarised Calculi**  
   by Pierre-Louis Curien, Marcelo Fiore, Guillaume Munch-Maccagnoni  
 
-* **A concurrency semantics for relaxed atomics that permits optimisation and avoids thin-air executions**  
-  by Jean Pichon-Pharabod, Peter Sewell  
+* **A concurrency semantics for relaxed atomics that permits optimisation and avoids thin-air executions**
+  ([preprint](https://www.cl.cam.ac.uk/~jp622/a_concurrency_semantics_for_relaxed_atomics_that_permits_optimisation_and_avoids_thin-air_executions.pdf))
+  by Jean Pichon-Pharabod, Peter Sewell
 
 * **Abstracting Gradual Typing**  
   by Ronald Garcia, Alison M. Clark, Éric Tanter  
