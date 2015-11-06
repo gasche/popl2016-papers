@@ -44,7 +44,7 @@ benefit an even larger audience.
   by Pierre-Louis Curien, Marcelo Fiore, Guillaume Munch-Maccagnoni  
 
 * **A concurrency semantics for relaxed atomics that permits optimisation and avoids thin-air executions**
-  ([preprint](https://www.cl.cam.ac.uk/~jp622/a_concurrency_semantics_for_relaxed_atomics_that_permits_optimisation_and_avoids_thin-air_executions.pdf))
+  ([preprint](https://www.cl.cam.ac.uk/~jp622/a_concurrency_semantics_for_relaxed_atomics_that_permits_optimisation_and_avoids_thin-air_executions.pdf))  
   by Jean Pichon-Pharabod, Peter Sewell
 
 * **Abstracting Gradual Typing**  
