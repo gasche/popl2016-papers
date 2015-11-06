@@ -50,6 +50,7 @@ benefit an even larger audience.
   by Ronald Garcia, Alison M. Clark, Éric Tanter  
 
 * **Abstraction Refinement Guided by a Learnt Probabilistic Model**  
+  ([preprint](http://arxiv.org/pdf/1511.01874) from [arXiv](http://arxiv.org/abs/1511.01874))  
   by Radu Grigore, Hongseok Yang  
 
 * **Algorithmic Analysis of Qualitative and Quantitative Termination Problems for Affine Probabilistic Programs**  
@@ -211,7 +212,7 @@ benefit an even larger audience.
   by Akihiro Murase, Tachio Terauchi, Naoki Kobayashi, Ryosuke Sato, Hiroshi Unno  
 
 * **The Complexity of Interaction**  
-  ([preprint](http://arxiv.org/pdf/1511.01838) from [arXiv](http://arxiv.org/abs/1511.01838))  
+  ([long version](http://arxiv.org/pdf/1511.01838) from [arXiv](http://arxiv.org/abs/1511.01838))  
   by Stéphane Gimenez, Georg Moser  
 
 * **The Gradualizer: a methodology and algorithm for generating gradual type systems**  
