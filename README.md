@@ -60,7 +60,7 @@ benefit an even larger audience.
   by Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Andreas Pavlogiannis  
 
 * **Binding as Sets of Scopes**  
-  ([preprint](http://www.cs.utah.edu/plt/publications/popl16-f.pdf)) ([paper in HTML format](http://www.cs.utah.edu/plt/scope-sets/)) ([artifact](http://www.cs.utah.edu/plt/popl16/))  
+  ([preprint](http://www.cs.utah.edu/plt/publications/popl16-f.pdf)) ([earlier version in HTML format](http://www.cs.utah.edu/plt/scope-sets/)) ([artifact](http://www.cs.utah.edu/plt/popl16/))  
   by Matthew Flatt  
 
 * **Breaking Through the Normalization Barrier: A Self-Interpreter for F-omega**  
@@ -127,7 +127,7 @@ benefit an even larger audience.
   by Jeehoon Kang, Yoonseung Kim, Chung-Kil Hur, Derek Dreyer, Viktor Vafeiadis  
 
 * **Maximal Specification Synthesis**  
-  ([preprint](http://pages.cs.wisc.edu/~aws/papers/popl16.pdf))
+  ([preprint](http://pages.cs.wisc.edu/~aws/papers/popl16.pdf))  
   by Aws Albarghouthi, Isil Dillig, Arie Gurfinkel  
 
 * **Memoryful Geometry of Interaction II: Recursion and Adequacy**  
