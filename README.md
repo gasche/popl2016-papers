@@ -127,6 +127,7 @@ benefit an even larger audience.
   by Jeehoon Kang, Yoonseung Kim, Chung-Kil Hur, Derek Dreyer, Viktor Vafeiadis  
 
 * **Maximal Specification Synthesis**  
+  ([preprint](http://pages.cs.wisc.edu/~aws/papers/popl16.pdf))
   by Aws Albarghouthi, Isil Dillig, Arie Gurfinkel  
 
 * **Memoryful Geometry of Interaction II: Recursion and Adequacy**  
