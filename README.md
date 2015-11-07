@@ -48,6 +48,7 @@ benefit an even larger audience.
   by Jean Pichon-Pharabod, Peter Sewell
 
 * **Abstracting Gradual Typing**  
+  ([preprint](http://pleiad.dcc.uchile.cl/papers/2016/garciaAl-popl2016.pdf))  
   by Ronald Garcia, Alison M. Clark, Éric Tanter  
 
 * **Abstraction Refinement Guided by a Learnt Probabilistic Model**  
