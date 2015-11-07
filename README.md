@@ -97,7 +97,7 @@ benefit an even larger audience.
   by Omer Katz, Ran El-Yaniv, Eran Yahav  
 
 * **Example-Directed Synthesis: A Type-Theoretic Interpretation**  
-  ([preprint](http://www.jfrankle.com/tds-popl-16.pdf))  
+  ([preprint](http://www.jfrankle.com/tds-popl-16.pdf)) ([website](http://www.jfrankle.com/popl-16.html))  
   by Jonathan Frankle, Peter-Michael Osera, David Walker, Steve Zdancewic  
 
 * **Fabular: Regression Formulas as Probabilistic Programming**  
