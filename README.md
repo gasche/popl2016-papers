@@ -150,6 +150,7 @@ benefit an even larger audience.
   by Thomas Reps, Emma Turetsky, Prathmesh Prabhu  
 
 * **Optimizing Synthesis with Metasketches**  
+  ([preprint](https://homes.cs.washington.edu/~emina/pubs/synapse.popl16.pdf))  
   by James Bornholt, Emina Torlak, Dan Grossman, Luis Ceze  
 
 * **Overhauling SC atomics in C11 and OpenCL**  
