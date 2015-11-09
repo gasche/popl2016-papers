@@ -88,6 +88,8 @@ benefit an even larger audience.
   by Nikhil Swamy, Cătălin Hriţcu, Chantal Keller, Aseem Rastogi, Antoine Delignat-Lavaud, Simon Forest, Karthikeyan Bhargavan, Cedric Fournet, Pierre-Yves Strub, Markulf Kohlweiss, Jean-Karim Zinzindohoue, Santiago Zanella-Beguelin  
 
 * **Effects as sessions, sessions as effects**  
+  ([preprint](http://dorchard.co.uk/publ/popl16-orchard-yoshida.pdf))
+  ([artifact](http://dorchard.co.uk/popl16))
   by Dominic Orchard, Nobuko Yoshida  
 
 * **Environmental Bisimulations for Probabilistic Higher-Order Languages**  
