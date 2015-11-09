@@ -89,7 +89,7 @@ benefit an even larger audience.
 
 * **Effects as sessions, sessions as effects**  
   ([preprint](http://dorchard.co.uk/publ/popl16-orchard-yoshida.pdf))
-  ([artifact](http://dorchard.co.uk/popl16))
+  ([artifact](http://dorchard.co.uk/popl16))  
   by Dominic Orchard, Nobuko Yoshida  
 
 * **Environmental Bisimulations for Probabilistic Higher-Order Languages**  
