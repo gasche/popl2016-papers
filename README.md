@@ -141,6 +141,8 @@ benefit an even larger audience.
   by James Brotherston, Nikos Gorogiannis, Max Kanovich, Reuben Rowe  
 
 * **Modelling the ARMv8 Architecture, Operationally: Concurrency and ISA**  
+([paper website](http://www.cl.cam.ac.uk/~sf502/popl16/index.html)) 
+([preprint](http://www.cl.cam.ac.uk/~pes20/popl16-armv8/top.pdf))  
   by Shaked Flur, Kathryn E. Gray, Christopher Pulte, Susmit Sarkar, Luc Maranget, Ali Sezgin, Will Deacon, Peter Sewell  
 
 * **Monitors and Blame Assignment for Higher-Order Session Types**  
