@@ -67,7 +67,7 @@ benefit an even larger audience.
   by Matthew Flatt  
 
 * **Breaking Through the Normalization Barrier: A Self-Interpreter for F-omega**  
-  (no preprint found) ([website](http://compilers.cs.ucla.edu/popl16/))  
+  ([paper website](http://compilers.cs.ucla.edu/popl16/))  ([preprint](http://compilers.cs.ucla.edu/popl16/popl16-full.pdf)) ([artifact](http://compilers.cs.ucla.edu/popl16/popl16-artifact.zip))  
   by Matt Brown, Jens Palsberg  
 
 * **Casper: An Efficient Approach to Call Trace Collection**  
