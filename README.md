@@ -231,6 +231,7 @@ benefit an even larger audience.
   by Rahman Lavaee, Chen Ding  
 
 * **Transforming Spreadsheet Data Types using Examples**  
+  ([preprint](http://research.microsoft.com/en-us/um/people/sumitg/pubs/popl16.pdf))  
   by Rishabh Singh, Sumit Gulwani  
 
 * **Type Theory in Type Theory using Quotient Inductive Types**  
