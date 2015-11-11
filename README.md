@@ -217,6 +217,7 @@ benefit an even larger audience.
   by Ori Lahav, Nick Giannarakis, Viktor Vafeiadis  
 
 * **Temporal Verification of Higher-order Functional Programs**  
+  ([preprint](http://www.jaist.ac.jp/~terauchi/papers/popl16-fairterm.pdf))  
   by Akihiro Murase, Tachio Terauchi, Naoki Kobayashi, Ryosuke Sato, Hiroshi Unno  
 
 * **The Complexity of Interaction**  
