@@ -38,6 +38,7 @@ benefit an even larger audience.
   by Alexey Gotsman, Hongseok Yang, Carla Ferreira, Mahsa Najafzadeh, Marc Shapiro  
 
 * **A Program Logic for Concurrent Objects under Fair Scheduling**  
+  ([preprint](http://staff.ustc.edu.cn/~lhj1018/paper/lili/LiLi.pdf)) ([extended version](http://staff.ustc.edu.cn/~lhj1018/paper/lili/LiLiTR.pdf))  
   by Hongjin Liang, Xinyu Feng  
 
 * **A Theory of Effects and Resources: Adjunction Models and Polarised Calculi**  
