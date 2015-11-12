@@ -242,4 +242,5 @@ benefit an even larger audience.
   by Thorsten Altenkirch, Ambrus Kaposi  
 
 * **Unboundedness and Downward Closures of Higher-Order Pushdown Automata**  
+  ([long version](http://arxiv.org/pdf/1507.03304.pdf) from [arXiv](http://arxiv.org/abs/1507.03304))  
   by Matthew Hague, Jonathan Kochems, C.-H. Luke Ong  
