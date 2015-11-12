@@ -211,6 +211,7 @@ benefit an even larger audience.
   by Michael Emmi, Constantin Enea  
 
 * **System Fω with Equirecursive Types for Datatype-generic Programming**  
+  (no preprint found) ([project website](http://ps.informatik.uni-tuebingen.de/research/functors/))  
   by Yufei Cai, Paolo G. Giarrusso, Klaus Ostermann  
 
 * **Taming Release-Acquire Consistency**  
