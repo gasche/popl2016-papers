@@ -204,6 +204,7 @@ benefit an even larger audience.
   by Florian Lorenzen, Sebastian Erdweg  
 
 * **String Solving with Word Equations and Transducers: Decidability and Applications to Detecting Mutation XSS**  
+  ([preprint](http://arxiv.org/pdf/1511.01633v1.pdf) from [arXiv](http://arxiv.org/abs/1511.01633))  
   by Anthony Widjaja Lin, Pablo Barcelo  
 
 * **Symbolic Abstract Data Type Inference**  
