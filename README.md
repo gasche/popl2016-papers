@@ -178,6 +178,7 @@ benefit an even larger audience.
   by Veselin Raychev, Pavol Bielik, Martin Vechev, Andreas Krause  
 
 * **Prophet: Automatic Patch Generation via Learning from Successful Patches**  
+  ([technical report](http://hdl.handle.net/1721.1/97735) ([uri](http://dspace.mit.edu/handle/1721.1/97735)))  
   by Fan Long, Martin Rinard  
 
 * **Pushdown Control-flow Analysis for Free**  
