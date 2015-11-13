@@ -126,6 +126,7 @@ benefit an even larger audience.
   by Ichiro Hasuo, Shunsuke Shimizu, Corina Cirstea  
 
 * **Learning Invariants using Decision Trees and Implication Counterexamples**  
+  ([draft](http://madhu.cs.illinois.edu/icedt.pdf))  
   by Pranav Garg, Daniel Neider, P. Madhusudan, Dan Roth  
 
 * **Lightweight Verification of Separate Compilation**  
