@@ -119,6 +119,7 @@ benefit an even larger audience.
   by Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Felleisen  
 
 * **Kleenex: Compiling Nondeterministic Transducers to Deterministic Streaming Transducers**  
+  ([IFIP WG 2.8 slides](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/33/slides/Fritz.pdf))  
   by Bjørn Bugge Grathwohl, Fritz Henglein, Ulrik Terp Rasmussen, Kristoffer Aalund Søholm, Sebastian Paaske Tørholm  
 
 * **Lattice-Theoretic Progress Measures and Coalgebraic Model Checking**  
