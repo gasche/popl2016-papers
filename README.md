@@ -141,6 +141,7 @@ benefit an even larger audience.
   by Koko Muroya, Naohiko Hoshino, Ichiro Hasuo  
 
 * **Model Checking for Symbolic-Heap Separation Logic with Inductive Predicates**  
+  ([preprint](http://www0.cs.ucl.ac.uk/staff/J.Brotherston/POPL16/SL_ID_model_checking.pdf))  
   by James Brotherston, Nikos Gorogiannis, Max Kanovich, Reuben Rowe  
 
 * **Modelling the ARMv8 Architecture, Operationally: Concurrency and ISA**  
