@@ -149,6 +149,7 @@ benefit an even larger audience.
   by Shaked Flur, Kathryn E. Gray, Christopher Pulte, Susmit Sarkar, Luc Maranget, Ali Sezgin, Will Deacon, Peter Sewell  
 
 * **Monitors and Blame Assignment for Higher-Order Session Types**  
+  ([technical report](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1138&context=cylab) ([TR website](http://repository.cmu.edu/cylab/139/)))  
   by Limin Jia, Hannah Gommerstadt, Frank Pfenning  
 
 * **Newtonian Program Analysis via Tensor Product**  
