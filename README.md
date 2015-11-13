@@ -185,6 +185,7 @@ benefit an even larger audience.
   by Thomas Gilray, Steven Lyde, Michael D. Adams, Matthew Might, David Van Horn  
 
 * **Query-Guided Maximum Satisfiability**  
+  ([preprint](http://www.cc.gatech.edu/~naik//pubs/popl16.pdf))    
   by Xin Zhang, Ravi Mangal, Aditya Nori, Mayur Naik  
 
 * **Reducing Crash Recoverability to Reachability**  
