@@ -82,6 +82,7 @@ benefit an even larger audience.
   by Damien Octeau, Somesh Jha, Matthew Dering, Patrick McDaniel, Alexandre Bartel, Hongyu Li, Jacques Klein, Yves Le Traon  
 
 * **Decidability of Inferring Inductive Invariants**  
+  ([preprint](www.cs.tau.ac.il/~odedp/Decidability_of_Inferring_Inductive_Invariants_POPL16.pdf))  
   by Oded Padon, Neil Immermal, Sharon Shoham, Aleksandr Karbyshev, Mooly Sagiv  
 
 * **Dependent Types and Multi-Monadic Effects in F***  
