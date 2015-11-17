@@ -197,6 +197,7 @@ benefit an even larger audience.
   by Xin Zhang, Ravi Mangal, Aditya Nori, Mayur Naik  
 
 * **Reducing Crash Recoverability to Reachability**  
+  ([preprint](http://www.erickoskinen.com/papers/cr.pdf))  
   by Eric Koskinen, Junfeng Yang  
 
 * **SMO: An Integrated Approach to Intra-Array and Inter-Array Storage Optimization**  
