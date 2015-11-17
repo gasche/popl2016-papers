@@ -157,6 +157,7 @@ benefit an even larger audience.
   by Limin Jia, Hannah Gommerstadt, Frank Pfenning  
 
 * **Newtonian Program Analysis via Tensor Product**  
+  ([preprint](http://research.cs.wisc.edu/wpis/papers/popl16.pdf))  
   by Thomas Reps, Emma Turetsky, Prathmesh Prabhu  
 
 * **Optimizing Synthesis with Metasketches**  
