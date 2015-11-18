@@ -72,6 +72,7 @@ benefit an even larger audience.
   by Matt Brown, Jens Palsberg  
 
 * **Casper: An Efficient Approach to Call Trace Collection**  
+  ([preprint](http://home.cse.ust.hk/~wurongxin/files/wurongxin_popl2016.pdf))  
   by Rongxin Wu, Xiao Xiao, Shing-Chi Cheung, Hongyu Zhang, Charles Zhang  
 
 * **Certified Causally Consistent Distributed Key-Value Stores**  
