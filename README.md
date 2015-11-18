@@ -184,7 +184,7 @@ benefit an even larger audience.
   by Marc Andrysco, Ranjit Jhala, Sorin Lerner  
 
 * **Program Synthesis with Noise**  
-  ([preprint](http://www.srl.inf.ethz.ch/papers/popl16.pdf))
+  ([preprint](http://www.srl.inf.ethz.ch/papers/popl16.pdf))  
   by Veselin Raychev, Pavol Bielik, Martin Vechev, Andreas Krause  
 
 * **Prophet: Automatic Patch Generation via Learning from Successful Patches**  
