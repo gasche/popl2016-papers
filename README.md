@@ -61,6 +61,7 @@ benefit an even larger audience.
   by Krishnendu Chatterjee, Hongfei Fu, Rouzbeh Hasheminezhad, Petr Novotny  
 
 * **Algorithms for Algebraic Path Properties in Concurrent Systems of Constant Treewidth Components**  
+  ([preprint](http://arxiv.org/pdf/1510.07565) from [arxiv](http://arxiv.org/abs/1510.07565))  
   by Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Andreas Pavlogiannis  
 
 * **Binding as Sets of Scopes**  
