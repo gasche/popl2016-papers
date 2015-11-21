@@ -42,6 +42,7 @@ benefit an even larger audience.
   by Hongjin Liang, Xinyu Feng  
 
 * **A Theory of Effects and Resources: Adjunction Models and Polarised Calculi**  
+  ([author's version](http://guillaume.munch.name/files/lcbpv.pdf))  
   by Pierre-Louis Curien, Marcelo Fiore, Guillaume Munch-Maccagnoni  
 
 * **A concurrency semantics for relaxed atomics that permits optimisation and avoids thin-air executions**
