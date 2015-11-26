@@ -108,6 +108,7 @@ benefit an even larger audience.
   by Jonathan Frankle, Peter-Michael Osera, David Walker, Steve Zdancewic  
 
 * **Fabular: Regression Formulas as Probabilistic Programming**  
+  ([preprint](http://zx.gd/academic/fabular.pdf))  
   by Johannes Borgstrom, Andrew D. Gordon, Long Ouyang, Claudio Russo, Adam Scibior, Marcin Szymczak  
 
 * **From MinX to MinC: Semantics-Driven Decompilation of Recursive Datatypes**  
@@ -171,7 +172,7 @@ benefit an even larger audience.
   ([preprint](http://arxiv.org/pdf/1503.07073) from [arXiv](http://arxiv.org/abs/1503.07073))  
   by John Wickerson, Mark Batty, Alastair Donaldson  
 
-* **PSync: a partially synchronous language for fault-tolerant distributed algorithms**
+* **PSync: a partially synchronous language for fault-tolerant distributed algorithms**  
   ([preprint](http://www.di.ens.fr/~cezarad/popl16.pdf))  
   by Cezara Drăgoi, Thomas A. Henzinger, Damien Zufferey  
 
