@@ -108,6 +108,7 @@ benefit an even larger audience.
   by Jonathan Frankle, Peter-Michael Osera, David Walker, Steve Zdancewic  
 
 * **Fabular: Regression Formulas as Probabilistic Programming**  
+  ([preprint](http://zx.gd/academic/fabular.pdf))  
   by Johannes Borgstrom, Andrew D. Gordon, Long Ouyang, Claudio Russo, Adam Scibior, Marcin Szymczak  
 
 * **From MinX to MinC: Semantics-Driven Decompilation of Recursive Datatypes**  
