@@ -226,8 +226,10 @@ benefit an even larger audience.
 * **Symbolic Abstract Data Type Inference**  
   by Michael Emmi, Constantin Enea  
 
-* **System Fω with Equirecursive Types for Datatype-generic Programming**  
-  ([preprint](http://ps.informatik.uni-tuebingen.de/research/functors/equirecursion-fomega-popl16.pdf)) ([project website](http://ps.informatik.uni-tuebingen.de/research/functors/))  
+* **System F-omega with Equirecursive Types for Datatype-Generic Programming**
+  ([preprint](http://ps.informatik.uni-tuebingen.de/research/functors/equirecursion-fomega-popl16.pdf))
+  ([technical report](http://ps.informatik.uni-tuebingen.de/research/functors/equirecursion-tr.pdf))
+  ([project website](http://ps.informatik.uni-tuebingen.de/research/functors/))
   by Yufei Cai, Paolo G. Giarrusso, Klaus Ostermann  
 
 * **Taming Release-Acquire Consistency**  
