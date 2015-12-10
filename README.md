@@ -225,6 +225,7 @@ benefit an even larger audience.
   by Anthony Widjaja Lin, Pablo Barcelo  
 
 * **Symbolic Abstract Data Type Inference**  
+  ([preprint](http://www.liafa.univ-paris-diderot.fr/~cenea/popl2016.pdf))  
   by Michael Emmi, Constantin Enea  
 
 * **System F-omega with Equirecursive Types for Datatype-Generic Programming**  
