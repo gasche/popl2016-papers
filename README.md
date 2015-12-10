@@ -123,7 +123,8 @@ benefit an even larger audience.
   ([preprint](http://www.ccs.neu.edu/racket/pubs/popl16-tfgnvf.pdf)) ([artifact](http://www.ccs.neu.edu/home/asumu/artifacts/popl-2016/))  
   by Asumu Takikawa, Daniel Feltey, Ben Greenman, Max New, Jan Vitek, Matthias Felleisen  
 
-* **Kleenex: Compiling Nondeterministic Transducers to Deterministic Streaming Transducers**  
+* **Kleenex: Compiling Nondeterministic Transducers to Deterministic Streaming Transducers**
+  ([preprint](https://utr.dk/pubs/files/grathwohl2016-0-paper.pdf))  
   ([IFIP WG 2.8 slides](http://www.cs.ox.ac.uk/ralf.hinze/WG2.8/33/slides/Fritz.pdf))  
   by Bjørn Bugge Grathwohl, Fritz Henglein, Ulrik Terp Rasmussen, Kristoffer Aalund Søholm, Sebastian Paaske Tørholm  
 
