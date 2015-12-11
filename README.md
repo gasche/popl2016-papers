@@ -215,6 +215,7 @@ benefit an even larger audience.
   by Luca Cardelli, Mirco Tribastone, Max Tschaikowski, Andrea Vandin  
 
 * **Scaling Network Verification using Symmetry and Surgery**  
+  ([preprint](http://research.microsoft.com/en-US/people/nbjorner/symmetry-popl15.pdf))  
   by Gordon Plotkin, Nikolaj Bjørner, Nuno P. Lopes, Andrey Rybalchenko, George Varghese  
 
 * **Sound Type-dependent Syntactic Language Extension**  
