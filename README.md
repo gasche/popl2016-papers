@@ -146,6 +146,7 @@ benefit an even larger audience.
   by Aws Albarghouthi, Isil Dillig, Arie Gurfinkel  
 
 * **Memoryful Geometry of Interaction II: Recursion and Adequacy**  
+  ([preprint](http://www-mmm.is.s.u-tokyo.ac.jp/~ichiro/papers/popl2016mGoI.pdf))  
   by Koko Muroya, Naohiko Hoshino, Ichiro Hasuo  
 
 * **Model Checking for Symbolic-Heap Separation Logic with Inductive Predicates**  
