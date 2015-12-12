@@ -82,6 +82,7 @@ benefit an even larger audience.
   by Mohsen Lesani, Christian J. Bell, Adam Chlipala  
 
 * **Combining Static Analysis with Probabilistic Models to Enable Market-Scale Analysis**  
+  ([preprint](https://sites.google.com/site/jacqueskleinwebpage/octeau-popl16.pdf))  
   by Damien Octeau, Somesh Jha, Matthew Dering, Patrick McDaniel, Alexandre Bartel, Hongyu Li, Jacques Klein, Yves Le Traon  
 
 * **Decidability of Inferring Inductive Invariants**  
