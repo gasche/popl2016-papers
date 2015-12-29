@@ -254,6 +254,7 @@ benefit an even larger audience.
   by Matteo Cimini, Jeremy Siek  
 
 * **The Hardness of Data Packing**  
+  ([preprint](http://www.cs.rochester.edu/u/rlavaee/packing-popl16.pdf))  
   by Rahman Lavaee, Chen Ding  
 
 * **Transforming Spreadsheet Data Types using Examples**  
