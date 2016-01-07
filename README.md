@@ -99,6 +99,7 @@ benefit an even larger audience.
   by Dominic Orchard, Nobuko Yoshida  
 
 * **Environmental Bisimulations for Probabilistic Higher-Order Languages**  
+  ([preprint (weblink)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx2YWxlcmlhdmlnbnVkZWxsaXxneDo0YzQ5ODFlN2MzODkzY2U4))  
   by Davide Sangiorgi, Valeria Vignudelli  
 
 * **Estimating types in binaries using predictive modeling**  
