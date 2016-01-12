@@ -187,6 +187,7 @@ benefit an even larger audience.
   by Sheng Chen, Martin Erwig  
 
 * **Printing Floating-Point Numbers: A Faster, Always Correct Method**  
+  ([preprint](http://cseweb.ucsd.edu/~lerner/papers/fp-printing-popl16.pdf))
   by Marc Andrysco, Ranjit Jhala, Sorin Lerner  
 
 * **Program Synthesis with Noise**  
