@@ -103,6 +103,7 @@ benefit an even larger audience.
   by Davide Sangiorgi, Valeria Vignudelli  
 
 * **Estimating types in binaries using predictive modeling**  
+  ([preprint](http://www.cs.technion.ac.il/~yahave/papers/popl16.pdf))  
   by Omer Katz, Ran El-Yaniv, Eran Yahav  
 
 * **Example-Directed Synthesis: A Type-Theoretic Interpretation**  
