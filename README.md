@@ -173,7 +173,8 @@ benefit an even larger audience.
   by James Bornholt, Emina Torlak, Dan Grossman, Luis Ceze  
 
 * **Overhauling SC atomics in C11 and OpenCL**  
-  ([preprint](http://johnwickerson.github.io/papers/openclmm.pdf))  
+  ([preprint](http://johnwickerson.github.io/papers/openclmm.pdf),
+   also available on [arXiv](http://arxiv.org/abs/1503.07073))  
   by John Wickerson, Mark Batty, Alastair Donaldson  
 
 * **PSync: a partially synchronous language for fault-tolerant distributed algorithms**  
